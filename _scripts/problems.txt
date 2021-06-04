@@ -1,7 +1,1 @@
-RemoveDuplicatesFromSortedArray
-RotateArray
-ContainsDuplicate
-IntersectionOfTwoArraysII
-PlusOne
-MoveZeroes
-TwoSum
+MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts
