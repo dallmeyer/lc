@@ -1,1 +1,3 @@
-OpenTheLock
+MaximumPerformanceOfATeam
+LongestConsecutiveSequence
+MinCostClimbingStairs
